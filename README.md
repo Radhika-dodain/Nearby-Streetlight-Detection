@@ -3,4 +3,4 @@ The Goal: You will tell the Chef (FastAPI) your current location, and he will ch
 
 Basic project to learn the workflow of backend and databases- used neon console, sql commands, postGIS and python FastAPI for backend.
 
-Notes-https://www.notion.so/BASICS-FIRST-NEARBY-SPOTLIGHT-SENSOR-69507512195b8295b3f4016b6cffa971?source=copy_link
+Notes-https://www.notion.so/BASICS-FIRST-NEARBY-SPOTLIGHT-SENSOR-1-34107512195b808c9d2ef515d301c679?source=copy_link
